@@ -683,8 +683,8 @@ a {
   transition: color 0.6s;
 }
 .cid-t88WAU8y4i {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #fffefb;
 }
 .cid-t88WAU8y4i .mbr-fallback-image.disabled {
@@ -709,7 +709,12 @@ a {
 }
 .cid-t88WAU8y4i img {
   width: 100%;
+  border-radius: 10px;
 }
 .cid-t88WAU8y4i .img-center {
   margin: auto;
+}
+.cid-t88WAU8y4i .logo {
+  margin: auto;
+  width: 150px;
 }
