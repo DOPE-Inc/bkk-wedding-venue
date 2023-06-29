@@ -53,7 +53,7 @@
     "siteUrl": "https://bkkweddingvenue.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/wedding-couple-1.ico",
-    "mbrsiteDomain": "hklogie8qk",
+    "mbrsiteDomain": "qe7ebw9cjv",
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
@@ -61,19 +61,18 @@
     "google-analytics": "<!-- Meta Pixel Code -->\n<script>\n    !function(f,b,e,v,n,t,s)\n    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n    n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n    n.queue=[];t=b.createElement(e);t.async=!0;\n    t.src=v;s=b.getElementsByTagName(e)[0];\n    s.parentNode.insertBefore(t,s)}(window, document,'script',\n    'https://connect.facebook.net/en_US/fbevents.js');\n    fbq('init', '480387790628978');\n    fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n    src=\"https://www.facebook.com/tr?id=480387790628978&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Meta Pixel Code -->",
     "witsec-jquery": false,
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
-    "usedWebp": true
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Bangkok Wedding Venues",
-        "meta_descr": "Wedding Venues in Bangkok | The Petal Garden | Marvellous Studio | The Eros",
+        "meta_descr": "Wedding Venues in Bangkok | The Petal Garden | Marvellous Studio",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/thumbnail-1-1667x1667.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/the-petal-garden-1076x769.jpg"
       },
       "components": [
         {
